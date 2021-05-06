@@ -1,0 +1,5 @@
+localhost:3004/data = post method to insert data
+
+localhost:3004/data = get method to get students datas in ascending order according to age
+
+localhost:3004/totalmarks = to get sum of the total marks
